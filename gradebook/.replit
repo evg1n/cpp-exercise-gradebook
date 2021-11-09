@@ -1,2 +1,0 @@
-lang = "bash"
-run = "clang++ -std=c++2a ./gradebook/main.cpp ./gradebook/lib/GradeBook.cpp -o main && ./main"
